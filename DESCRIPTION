@@ -2,7 +2,7 @@ Package: fspe
 Type: Package
 Title: Estimating the Number of Factors in EFA with Out-of-Sample
         Prediction Errors
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
   c(person(given = "Jonas",
            family = "Haslbeck",
@@ -20,9 +20,9 @@ Encoding: UTF-8
 LazyData: true
 Imports: psych, corpcor, GPArotation
 NeedsCompilation: no
-Packaged: 2021-02-23 10:02:47 UTC; jonas
+Packaged: 2022-06-15 10:51:14 UTC; jonas
 Author: Jonas Haslbeck [aut, cre],
   Riet van Bork [ctb]
 Maintainer: Jonas Haslbeck <jonashaslbeck@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-02-24 10:00:05 UTC
+Date/Publication: 2022-06-15 11:30:08 UTC
