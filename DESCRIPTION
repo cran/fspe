@@ -2,7 +2,7 @@ Package: fspe
 Type: Package
 Title: Estimating the Number of Factors in EFA with Out-of-Sample
         Prediction Errors
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
   c(person(given = "Jonas",
            family = "Haslbeck",
@@ -18,11 +18,11 @@ Description: Estimating the number of factors in Exploratory Factor Analysis (EF
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
-Imports: psych, corpcor, GPArotation
+Imports: psych, corpcor
 NeedsCompilation: no
-Packaged: 2022-06-15 10:51:14 UTC; jonas
+Packaged: 2023-03-28 08:51:49 UTC; jonas
 Author: Jonas Haslbeck [aut, cre],
   Riet van Bork [ctb]
 Maintainer: Jonas Haslbeck <jonashaslbeck@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-06-15 11:30:08 UTC
+Date/Publication: 2023-03-28 09:40:02 UTC
